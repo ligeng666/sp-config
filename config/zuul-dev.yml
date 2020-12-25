@@ -16,7 +16,6 @@ zuul:
   retryable: true
 
 #    默认配置,可以省略
-
 #  routes:
 #    item-service: /item-service/**
 #    user-service: /user-service/**
